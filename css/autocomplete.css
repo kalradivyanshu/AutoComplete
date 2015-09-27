@@ -1,0 +1,12 @@
+.username {
+	font-size: 10px;
+	color: grey;
+}
+.selected {
+	background-color: #F5F5F5;
+}
+.suggestiontable {
+	display: none;
+	width:200px;
+	background:white;
+}
